@@ -41,8 +41,8 @@ Finished project on a 375px screen
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](hhttps://glittery-manatee-0d2418.netlify.app/)
+- Solution URL: [My solution on Frontend mentor](https://your-solution-url.com)
+- Live Site URL: [My solution on Netliffy](https://glittery-manatee-0d2418.netlify.app/)
 
 ## My process
 
@@ -62,6 +62,7 @@ So first of all i really loved this project it was fun and i was capable of lear
 - the most difficult thing for me in this project was to make the image responsive, i put the image in a div and then in a picture tag and i just couldnt wrap my head around it, how to make the image scale, but in the end i figured it out and learned a lot.
 - the JS side was nothing hard, i just had to make sure that the email was valid and that the input was not empty.
 - i am sure that there are better ways to do this project, but i am happy with the result.
+- i made sure to design the project on mobile resolution first, i fell in love with this approach, it makes everything so much easier.
 
 ### Continued development
 
