@@ -75,6 +75,15 @@ i dont plan to add anything more to this project. I think it's finished and i'm 
 - Dave Gray's [blog](https://daveceddia.com/) I also recommend his channel to anyone who wants to learn web development.
 - [MDN](https://developer.mozilla.org/en-US/) I think this is the best place to look up things.
 
+Some pages i wish i could find earlier:
+- [CSS Tricks](https://css-tricks.com/)
+- [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+- [HTML Cheat Sheet](https://htmlcheatsheet.com/)
+- [JS Cheat Sheet](https://htmlcheatsheet.com/js/)
+- [CSS Grid Cheat Sheet](https://grid.malven.co/)
+- [Flexbox Cheat Sheet](https://flexbox.malven.co/)
+- 
+
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
